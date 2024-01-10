@@ -1,0 +1,4 @@
+.env
+botenv
+utils/__pycache__
+notes.txt
